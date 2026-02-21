@@ -15,7 +15,7 @@ def get_telephony_data():
     except:
         return None
 
-print("--- DOWNGRADE SENTRY ACTIVE ---")
+print("--- DOWNGRADE ANALYSIS ACTIVE ---")
 print("[*] Monitoring for 5G/4G -> 3G Forced Flips...")
 
 last_state = None
